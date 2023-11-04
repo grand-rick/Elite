@@ -14,6 +14,7 @@ Skills
 ## Collaboration
 - Insert a meme/image that represents your team's communication and collaboration strategy for Game of Learners
 - Insert a meme/image that represents your team's approach to giving and receiving feedback during Game of Learners
+- ![GitHub Logo](https://media.giphy.com/media/jvOPhkGxylZB2uFI4v/giphy.gif)
 
 ## Success
 - Insert a meme/image that represents what success in Game of Learners looks like for your team
