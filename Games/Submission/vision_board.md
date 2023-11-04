@@ -1,4 +1,4 @@
-# [Team_Name] Vision Board
+# Elite Vision Board
 
 ## Introduction
 
