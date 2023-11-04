@@ -6,7 +6,7 @@ Insert a meme/image that represents your team's motivation and inspiration for p
 
 ## Goals
 
-https://media.giphy.com/media/xThtajG0JaEWYlIg3m/giphy.gif
+![Teacher in class](https://media.giphy.com/media/xThtajG0JaEWYlIg3m/giphy.gif)
 
 <!-- - Insert a meme/image that represents your team's primary goal for Game of Learners
 - Insert a meme/image that represents your team's secondary goal for Game of Learners
@@ -17,7 +17,7 @@ Skills
 
 ## Collaboration
 
-https://media.giphy.com/media/3o6gbchrcNIt4Ma8Tu/giphy.gif
+![Maintainer communicating with collaborators](https://media.giphy.com/media/3o6gbchrcNIt4Ma8Tu/giphy.gif)
 
 <!-- - Insert a meme/image that represents your team's communication and collaboration strategy for Game of Learners
 - Insert a meme/image that represents your team's approach to giving and receiving feedback during Game of Learners -->
