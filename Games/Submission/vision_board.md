@@ -21,5 +21,7 @@ Skills
 
 ## Conclusion
 - Insert a meme/image that represents your team's excitement and enthusiasm for Game of Learners
+- ![GitHub Logo ](https://media.giphy.com/media/5z7CHArtb4AlA5hV7l/giphy.gif)
+- 
 
 Feel free to modify and customize this template as needed to fit your specific team's goals and objectives! But this is just a guide on what you can inlude in the board
