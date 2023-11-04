@@ -4,11 +4,21 @@
 Insert a meme/image that represents your team's motivation and inspiration for participating in Game of Learners Season 4.
 
 ## Goals
-- Insert a meme/image that represents your team's primary goal for Game of Learners
-- Insert a meme/image that represents your team's secondary goal for Game of Learners
+[//]: # (- Insert a meme/image that represents your team's primary goal for Game of Learners)
+![Resources](https://media.giphy.com/media/aL0DjO1qJ9jmoX0o4Z/giphy.gif)
+
+[//]: # (- Insert a meme/image that represents your team's secondary goal for Game of Learners)
+
+![e-learning](https://media.giphy.com/media/3ohhwwCGCAeaw13O36/giphy.gif)
+
+
+
 - Insert a meme/image that represents your team's stretch goal for Game of Learners
+
 Skills
+
 - Insert a meme/image that represents the skills you want to learn and develop during Game of Learners
+
 - Insert a meme/image that represents the skills you want to improve during Game of Learners
 
 ## Collaboration
